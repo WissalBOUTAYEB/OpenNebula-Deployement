@@ -20,14 +20,18 @@ Intégration avec VMware vCenter :
 
 Connexion et interaction transparente avec VMware vCenter.
 Installation et configuration du plugin vCenter.
+
 Automatisation de la gestion des ressources :
 
 Création, gestion, et déploiement automatisé des machines virtuelles.
 Gestion efficace des réseaux et du stockage.
+
 Optimisation des ressources :
+
 
 Surveillance et optimisation des ressources informatiques pour une performance optimale.
 Maintenance et résolution des problèmes :
+
 
 Documentation détaillée des étapes de configuration.
 Solutions aux problèmes courants pour faciliter la gestion continue de l'infrastructure.
