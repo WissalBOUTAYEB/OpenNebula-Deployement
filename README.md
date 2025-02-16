@@ -10,6 +10,7 @@ Interopérabilité multi-cloud
 Sécurité et contrôle d'accès
 
 🎯 Objectifs Principaux
+
 Les principaux objectifs de ce projet sont :
 
 Déployer OpenNebula sur une VM Linux :
